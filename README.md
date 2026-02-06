@@ -1,6 +1,6 @@
 ## Oie! Meu nome é Letícia 👋
 
-- 💾 Sou uma estudante de Engenharia de Software e estou no 6º período;
+- 💾 Sou uma estudante de Engenharia de Software e estou no 7º período;
 - 💻 Atualmente estou trabalhando (tentando) em um projeto da faculdade, um aplicativo mobile chamado Motus!
 - 📩 Atualizarei meus repositórios com o passar do tempo, dando atts sobre o app.
 
